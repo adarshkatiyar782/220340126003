@@ -1,0 +1,7 @@
+create a python file for factorial of number
+then create Dockerfile and build it from command line (sudo docker build -d image name and path)
+then check the container running states from cmd (sudo docker ps)
+the run the imgae from cmd (sudo docker rum -itd -- name create_name images_name sh)
+sh for alpine
+then we enter in container and run the python code (python3 python_file_name)
+and see the  outupt
